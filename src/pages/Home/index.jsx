@@ -62,7 +62,7 @@ B̷̰̏ȉ̶̗̚ț̸͓̕T̸̺͐r̶̳̈́̔ä̶̱̤́c̷͇̠̋é̵͇̮͘ř̵͈̄�
         <br/>
         <br/>
         <br/>
-        <div className='entrance'><Link to="/build">🅴🅽🆃🆁🅰🅽🅲🅴</Link></div>
+        <div className='entrance'><Link to="/engine">🅴🅽🆃🆁🅰🅽🅲🅴</Link></div>
       </div>
     );
   }
